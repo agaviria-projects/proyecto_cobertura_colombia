@@ -61,7 +61,7 @@ Cada tabla mantiene integridad referencial mediante claves foráneas (FOREIGN KE
 🚀 Ejecución rápida
 
 1️⃣ Instalar dependencias:
-pip install pandas mysql-connector-python mariadb
+pip install pandas mysql-connector-python mariadb.
 
 2️⃣ Configurar la conexión MySQL dentro del script (usuario y contraseña).
 3️⃣ Ejecutar el script:
