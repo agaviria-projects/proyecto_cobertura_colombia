@@ -54,12 +54,9 @@ cobertura_movil
 Cada tabla mantiene integridad referencial mediante claves foráneas (FOREIGN KEY) y acciones en cascada (ON UPDATE CASCADE).
 
 🧩 Modelo relacional
-departamentos ───< municipios ───< centros_poblados
-                       │
-                       └──< indicadores_socioeconomicos
-departamentos ───< cobertura_movil >── proveedores
-municipios ───────< cobertura_movil
-centros_poblados ─< cobertura_movil
+### 📊 Diagrama visual
+
+![Modelo Entidad-Relación](./ModeloER.png)
 
 🚀 Ejecución rápida
 
