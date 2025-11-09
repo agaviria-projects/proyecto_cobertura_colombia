@@ -80,7 +80,7 @@ SHOW TABLES;
 El propósito es automatizar un flujo ETL completo con Python y MySQL, aplicable a análisis de datos públicos o empresariales.
 Sirve como práctica profesional de modelado relacional, limpieza de datos y carga masiva.
 
-👨‍💻 Autor
+👨‍💻 Autores:
 •	Laura Daniela Hoyos Peña
 •	Héctor Alejandro Gaviria Marín
 •	Angela María López Parra
