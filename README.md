@@ -10,7 +10,7 @@ Combina un **script Python** que ejecuta el proceso ETL (Extracción, Transforma
 ### 📜 1. `crear_y_cargar_cobertura_colombia_final.py`
 **Lenguaje:** Python  
 **Descripción:**  
-Script que crea automáticamente la base de datos `cobertura_colombia` en MySQL, define las tablas normalizadas y carga más de 8.000 registros a partir del archivo CSV limpio `cobertura_colombia_2017_2024_limpio_V2.csv`.
+Script que crea automáticamente la base de datos `cobertura_colombia` en MySQL, define las tablas normalizadas y carga de 8.000 registros a partir del archivo CSV limpio `cobertura_colombia_2017_2024_limpio_V2.csv`.
 
 #### 🔹 Funcionalidades principales:
 - Conexión automática a MySQL usando `mysql.connector` o `mariadb`.  
